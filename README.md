@@ -1,5 +1,5 @@
 # Atividade-30-06
 curso Full Stack
-escola senai
+escola SENAI
 
 esse projeto é sobre uma página HTML
